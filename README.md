@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @timdahlmann
-- 👀 I’m interested in Biologie and Bioinformatics.
+- 👋 Hi, I’m Tim Dahlmann
+- 👀 I’m interested in Biology and Bioinformatics.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on molecular genetics and NGS analysis.
 - 📫 How to reach me: tim.dahlmann@rub.de
