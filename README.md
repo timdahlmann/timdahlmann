@@ -2,7 +2,7 @@
 - 👀 I’m interested in Biology and Bioinformatics.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on molecular genetics and NGS analysis.
-- 📫 How to reach me: tim-dahlmann@t-online.de
+- 📫 How to reach me: tim.dahlmann@alumni.rub.de
 
 <!---
 timdahlmann/timdahlmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
