@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tim Dahlmann
-- 👀 I’m interested in Biology and Bioinformatics.
+- 👋 Hi, I’m Tim Dahlmann, PhD (Biology)
+- 👀 I’m interested in Molecular Genetics and Bioinformatics.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on molecular genetics and NGS analysis.
 - 📫 How to reach me: tim.dahlmann@alumni.rub.de
